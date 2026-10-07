@@ -1,0 +1,11 @@
+name: project4_sales_customer
+version: '1.0'
+config-version: 2
+profile: project4_sales_customer
+model-paths: ["models"]
+test-paths: ["tests"]
+models:
+  project4_sales_customer:
+    staging: {+materialized: view}
+    intermediate: {+materialized: table}
+    marts: {+materialized: table}

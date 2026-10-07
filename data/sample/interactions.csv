@@ -1,0 +1,4 @@
+interaction_id,customer_id,rep_id,interaction_date,stage,channel
+I0000001,C000001,R00001,2026-01-01,Lead,Web
+I0000002,C000001,R00001,2026-01-02,Demo,Phone
+I0000003,C000002,R00002,2026-01-03,Proposal,Email

@@ -1,0 +1,4 @@
+order_id,customer_id,product_id,rep_id,order_date,quantity,unit_price,discount,status
+O0000001,C000001,P00001,R00001,2026-01-03,2,1200,0.1,Completed
+O0000002,C000002,P00002,R00002,2026-01-04,5,800,0.05,Completed
+O0000003,C000003,P00001,R00001,2026-01-05,1,2500,1.05,Completed

@@ -1,0 +1,3 @@
+customer_id,segment,region,signup_date,status,acquisition_channel
+C000001,Enterprise,South,2024-01-05,Active,Web
+C000002,SMB,Midlands,2024-03-12,Active,Referral
